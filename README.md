@@ -15,4 +15,4 @@ Please feel free to contact me 💬, I will answer you fast ⚡ 😄
 [![](./wtsup-icon.png)](https://wa.me/21627194715)
 [![](./youtube-icon.png)](https://www.youtube.com/c/mazoum)
 
-<a href="tel:123-456-7890">![](./phon-icon.png)</a>
+<a href="tel:+32-465378094" class="Blondie">![](./phon-icon.png)</a>
