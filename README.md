@@ -11,8 +11,5 @@ Please feel free to contact me 💬, I will answer you fast ⚡ 😄
 [![](./github-icon.png)](https://krakla.github.io)
 [![](./in-icon.png)](https://www.linkedin.com/in/mazoum)
 [![](./insta-icon.png)](https://www.instagram.com/krakla)
-[![](./phon-icon.png)](tel:32465378094)
 [![](./wtsup-icon.png)](https://wa.me/21627194715)
 [![](./youtube-icon.png)](https://www.youtube.com/c/mazoum)
-
-<a href="tel:+32-465378094" class="Blondie">![](./phon-icon.png)</a>
