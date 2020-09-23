@@ -7,8 +7,9 @@ I am <span style="color:red">**_Mahmoud_**</span>, and you can call me <span sty
 Please feel free to contact me 💬, I will answer you fast ⚡ 😄 
 
 [![](./mail-icon.png)](mailto:krakla@gmail.com)
+[![](./web-icon.png)](https://krakla.github.io)
 [![](./fb-icon.png)](https://www.facebook.com/mazoum)
-[![](./github-icon.png)](https://krakla.github.io)
+[![](./github-icon.png)](https://github.com/krakla)
 [![](./in-icon.png)](https://www.linkedin.com/in/mazoum)
 [![](./insta-icon.png)](https://www.instagram.com/krakla)
 [![](./wtsup-icon.png)](https://wa.me/21627194715)
